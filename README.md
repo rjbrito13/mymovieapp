@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+A movie catalog app for browsing movie informations with included trailers.
 
 ## Getting Started
 
