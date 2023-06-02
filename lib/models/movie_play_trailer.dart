@@ -103,6 +103,7 @@ class _MoviePlayTrailerState extends State<MoviePlayTrailer> with SingleTickerPr
     
     
     
+
     
   }
 }
