@@ -1,0 +1,60 @@
+[
+    {
+      "title": "Captain America",
+      "imagePath": "assets/images/captainamerica.jpg",
+      "subtitle": "New World Order",
+      "releasedate": 2011,
+      "screentime": "2h 4m",
+      "category" : "Action",
+      "director": "Joe Johnston",
+      "casts": ["Anthony Mackie", "Harrison Ford", "Shira Haas"],
+      "videoid": "h_h6oMhD6MA"
+
+    },
+    {
+      "title": "Ironman",
+      "imagePath": "assets/images/ironman.jpg",
+      "subtitle": "",
+      "releasedate": 2008,
+      "screentime": "2h 10m",
+      "category" : "Fantasy",
+      "director": "Jon Favreau",
+      "casts": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges"],
+      "videoid": "Ke1Y3P9D0Bc"
+    },
+    {
+      "title": "Spiderman",
+      "imagePath": "assets/images/spiderman.jpg",
+      "subtitle": "No Way Home",
+      "releasedate": 2021,
+      "screentime": "2h 28m",
+      "category" : "Action",
+      "director": "Jon Watts",
+      "casts": ["Tom Holland", "Zendaya", "Willem Dafoe"],
+      "videoid": "JfVOs4VSpmA"
+      
+    },
+    {
+      "title": "Thor",
+      "imagePath": "assets/images/thor.jpg",
+      "subtitle": "Ragnarok",
+      "releasedate": 2011,
+      "screentime": "2h 10m",
+      "category" : "Fantasy",
+      "director": "Kenneth Branagh",
+      "casts": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston"],
+      "videoid": "ue80QwXMRHg"
+    },
+    {
+      "title": "Venom",
+      "imagePath": "assets/images/venom.jpg",
+      "subtitle": "Let there be Carnage",
+      "releasedate": 2021,
+      "screentime": "1h 30m",
+      "category" : "Fantasy",
+      "director": "Andy Serkis",
+      "casts": ["Tom Hardy", "Michelle Williams", "Woody Harrelson"],
+      "videoid": "-ezfi6FQ8Ds"
+    }
+  ]
+  
