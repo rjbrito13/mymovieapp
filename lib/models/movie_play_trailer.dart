@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'movie.dart';
-import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 import 'movie_loading.dart';
 import 'movie_play_dialog.dart';
 
